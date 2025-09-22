@@ -1,4 +1,4 @@
-img_path,label
+image_path,label
 test_dataset/img_0.png,"[('circle', 'red'), ('square', 'red')]"
 test_dataset/img_1.png,"[('circle', 'red')]"
 test_dataset/img_2.png,"[('circle', 'red'), ('circle', 'green')]"
